@@ -1,8 +1,7 @@
-# ComputerGraphics-project
+# ComputerGraphics project using OpenGL
 
 - Library : GLM, GLFW, GLEW, FreeType, Assimp
-- Platform : Windows 
-
+- Platform : Windows Microsoft Visual Studio
 - Title: Find the Magic Pearl!
 
 
