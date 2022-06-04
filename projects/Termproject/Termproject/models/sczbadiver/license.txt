@@ -1,0 +1,11 @@
+Model Information:
+* title:	Deep Diver
+* source:	https://sketchfab.com/3d-models/deep-diver-a429a832e99641c4ad1d0bdd74d70fde
+* author:	Miguelangelo Rosario (https://sketchfab.com/miguelangelo2k)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Deep Diver" (https://sketchfab.com/3d-models/deep-diver-a429a832e99641c4ad1d0bdd74d70fde) by Miguelangelo Rosario (https://sketchfab.com/miguelangelo2k) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

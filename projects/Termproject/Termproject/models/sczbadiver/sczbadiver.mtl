@@ -1,0 +1,118 @@
+newmtl Skin_Head
+    Ns 20.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd sczbadiver/Skin_Head_diffuse.png
+    map_D sczbadiver/Skin_Head_opacity.png
+    map_Ks sczbadiver/Skin_Head_specular.png
+    map_Pm sczbadiver/Skin_Head_metallic.png
+    map_Pr sczbadiver/Skin_Head_roughness.png
+newmtl Skin_Body
+    Ns 20.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd sczbadiver/Skin_Body_diffuse.png
+    map_Ks sczbadiver/Skin_Body_specular.png
+    map_Pm sczbadiver/Skin_Body_metallic.png
+    map_Pr sczbadiver/Skin_Body_roughness.png
+newmtl Lower_Teeth
+    Ns 35.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd sczbadiver/Lower_Teeth_diffuse.png
+    map_Ks sczbadiver/Lower_Teeth_specular.png
+    map_Pm sczbadiver/Lower_Teeth_metallic.png
+    map_Pr sczbadiver/Lower_Teeth_roughness.png
+newmtl Toenail
+    Ns 30.000002
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd sczbadiver/Toenail_diffuse.png
+    map_Ks sczbadiver/Toenail_specular.png
+    map_Pm sczbadiver/Toenail_metallic.png
+    map_Pr sczbadiver/Toenail_roughness.png
+newmtl Eyelash
+    Ns 20.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd sczbadiver/Eyelash_diffuse.png
+    map_D sczbadiver/Eyelash_opacity.png
+    map_Ks sczbadiver/Eyelash_specular.png
+    map_Pm sczbadiver/Eyelash_metallic.png
+    map_Pr sczbadiver/Eyelash_roughness.png
+newmtl Upper_Teeth
+    Ns 35.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd sczbadiver/Upper_Teeth_diffuse.png
+    map_Ks sczbadiver/Upper_Teeth_specular.png
+    map_Pm sczbadiver/Upper_Teeth_metallic.png
+    map_Pr sczbadiver/Upper_Teeth_roughness.png
+newmtl Eye
+    Ns 40.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd sczbadiver/Eye_diffuse.jpg
+    map_Pm sczbadiver/Eye_metallic.png
+    map_Pr sczbadiver/Eye_roughness.png
+newmtl Fingernail
+    Ns 30.000002
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd sczbadiver/Fingernail_diffuse.png
+    map_Ks sczbadiver/Fingernail_specular.png
+    map_Pm sczbadiver/Fingernail_metallic.png
+    map_Pr sczbadiver/Fingernail_roughness.png
+newmtl diver_scuba_rig_obj
+    Ns 43.219299
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd sczbadiver/diver_scuba_rig_obj_diffuse.png
+    map_Pm sczbadiver/diver_scuba_rig_obj_metallic.png
+    map_Pr sczbadiver/diver_scuba_rig_obj_roughness.png
+newmtl Cornea
+    Ns 63.000000
+    d 0.800000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd sczbadiver/Cornea_diffuse.jpg
+    map_Pm sczbadiver/Cornea_metallic.png
+    map_Pr sczbadiver/Cornea_roughness.png
+newmtl Tongue
+    Ns 30.000002
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd sczbadiver/Tongue_diffuse.png
+    map_Ks sczbadiver/Tongue_specular.png
+    map_Pm sczbadiver/Tongue_metallic.png
+    map_Pr sczbadiver/Tongue_roughness.png
+newmtl diver_suit_obj
+    Ns 43.219299
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd sczbadiver/diver_suit_obj_diffuse.png
+    map_Pm sczbadiver/diver_scuba_rig_obj_metallic.png
+    map_Pr sczbadiver/diver_scuba_rig_obj_roughness.png
