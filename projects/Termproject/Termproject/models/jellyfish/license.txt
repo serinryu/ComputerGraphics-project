@@ -1,0 +1,11 @@
+Model Information:
+* title:	Jellyfish_001
+* source:	https://sketchfab.com/3d-models/jellyfish-001-d89af687535340609df38ef3325b285a
+* author:	n- (https://sketchfab.com/n-)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Jellyfish_001" (https://sketchfab.com/3d-models/jellyfish-001-d89af687535340609df38ef3325b285a) by n- (https://sketchfab.com/n-) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
